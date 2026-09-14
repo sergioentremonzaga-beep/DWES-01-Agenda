@@ -1,0 +1,5 @@
+C:\Users\skyra\RiderProjects\DWES-01-Agenda\DWES-01-Agenda\obj\Debug\net10.0\DWES-01-Agenda.csproj.AssemblyReference.cache
+C:\Users\skyra\RiderProjects\DWES-01-Agenda\DWES-01-Agenda\obj\Debug\net10.0\DWES-01-Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyra\RiderProjects\DWES-01-Agenda\DWES-01-Agenda\obj\Debug\net10.0\DWES-01-Agenda.AssemblyInfoInputs.cache
+C:\Users\skyra\RiderProjects\DWES-01-Agenda\DWES-01-Agenda\obj\Debug\net10.0\DWES-01-Agenda.AssemblyInfo.cs
+C:\Users\skyra\RiderProjects\DWES-01-Agenda\DWES-01-Agenda\obj\Debug\net10.0\DWES-01-Agenda.csproj.CoreCompileInputs.cache
